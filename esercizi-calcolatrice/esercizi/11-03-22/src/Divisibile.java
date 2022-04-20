@@ -17,6 +17,7 @@ import java.util.Scanner;
      {
         return numeroDivisibile % criterioDivisibilita == 0;
      }
+     
      public static void main(String[] args) 
      {
         int numeroDivisibile; // numero di cui verificare la divisibilità
