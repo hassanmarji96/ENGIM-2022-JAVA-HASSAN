@@ -1,0 +1,4 @@
+CREATE DEFINER=`littleshops`@`localhost` PROCEDURE `seleziona_studenti`()
+BEGIN
+	SELECT * FROM STUDENTE;
+END
